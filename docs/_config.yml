@@ -20,7 +20,7 @@
 
 title: My leetcode submissions
 email: your-email@example.com
-description:This where I'll put my leetcode submissions.
+description: This where I'll put my leetcode submissions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
